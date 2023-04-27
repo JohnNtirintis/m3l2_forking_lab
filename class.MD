@@ -1,3 +1,0 @@
-John
-Athens
-Back-end
